@@ -16,4 +16,5 @@ Exercicios propostos:
 ![13](https://github.com/pspsousa/hotel/assets/111404527/dd9f0d52-427b-4e72-8f37-3af41baed236)
 ![14](https://github.com/pspsousa/hotel/assets/111404527/dc3b2ba4-5901-49e3-ae73-3fa0ac06aa6f)
 ![15](https://github.com/pspsousa/hotel/assets/111404527/2336345c-71e0-4c1c-b078-40570c715204)
-![16](https://github.com/pspsousa/hotel/assets/111404527/a676e9a5-4a28-467d-beb0-4785cdc0c6e4)
+![image](https://github.com/pspsousa/Oscar/assets/111404527/60752169-f67e-42b0-baa2-b2779d8e81d6)
+
